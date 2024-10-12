@@ -1,0 +1,23 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Starfreck ✨"
+
+[params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
+    description = "Starfreck's thoughts, stories and ideas"
+    copyright = "© Starfreck"
+
+[params.author]
+    name = "Starfreck✨"
+    image = "https://avatars.githubusercontent.com/u/15255654?v=4"
+    headline = "My thoughts, stories and ideas"
+    links = [
+        { github = "https://github.com/starfreck" },
+        { mastodon = "https://mastodon.social/@starfreck" },
+        { comment = "https://signal.me/#eu/4OU-fiXO5YbAaWsSwXn-OOvH5TVgmNQIbvRcNe9JsU6pgro2hGlGvKUUhjQ_M3Lg" },
+    ]
